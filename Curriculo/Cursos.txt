@@ -1,0 +1,7 @@
+# Curso em Programação
+
+[Algoritmos](https://certificates.digitalinnovation.one/0FC57BB1)
+
+[Lógica](https://certificates.digitalinnovation.one/401DF86B)
+
+[Introdução ao Git e ao GitHub](https://certificates.digitalinnovation.one/608AA5AE)
